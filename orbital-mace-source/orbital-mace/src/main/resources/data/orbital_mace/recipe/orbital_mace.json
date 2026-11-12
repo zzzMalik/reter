@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": { "T": "minecraft:tnt", "N": "minecraft:nether_star", "M": "minecraft:mace" },
+  "pattern": ["TNT", " M ", "TNT"],
+  "result": { "id": "orbital_mace:orbital_mace", "count": 1 }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/handheld_mace",
+  "textures": {
+    "layer0": "minecraft:item/mace",
+    "layer1": "orbital_mace:item/orbital_mace_effects"
+  }
+}

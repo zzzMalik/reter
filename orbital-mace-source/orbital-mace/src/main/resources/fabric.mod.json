@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "orbital_mace",
+  "version": "${version}",
+  "name": "Orbital Mace",
+  "description": "Adds the Orbital Mace: every hit calls down an orbital nuke and a barrage of staggered strikes from the sky.",
+  "authors": ["You"],
+  "license": "MIT",
+  "icon": "assets/orbital_mace/icon.png",
+  "environment": "*",
+  "entrypoints": { "main": ["dev.orbitalmace.OrbitalMaceMod"] },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
